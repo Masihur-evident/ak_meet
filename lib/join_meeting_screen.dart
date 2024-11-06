@@ -16,7 +16,7 @@ class _JoinMeetingScreenState extends State<JoinMeetingScreen> {
   void initState() {
 
     join();
-    // TODO: implement initState
+
     super.initState();
   }
 
